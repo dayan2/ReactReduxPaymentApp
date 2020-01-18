@@ -2,7 +2,7 @@
 
 <br />
 
-<div align="center">Payment Application</div>
+<h1 align="center">Payment Application</h2>
 
 <br />
 
