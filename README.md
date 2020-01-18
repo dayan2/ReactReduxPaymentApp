@@ -12,7 +12,7 @@
 
 ## Features
 
-This boilerplate features all the latest tools and practices in the industry.
+This application features all the latest tools and practices in the industry.
 
 - _React.js_ - **React 16**✨, React Router 5
 - _Redux.js_ - Redux saga and Reselect
