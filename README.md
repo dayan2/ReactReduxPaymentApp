@@ -1,8 +1,8 @@
-<img src="https://raw.githubusercontent.com/flexdinesh/react-redux-boilerplate/master/app/components/Header/images/banner.jpg" alt="react redux boilerplate banner" align="center" />
+<img src="https://qualityinspection.org/wp-content/uploads/2012/01/HowtoPayChineseSuppliersbyBankTransferTT.jpg" alt="react redux payment app" align="center" />
 
 <br />
 
-<div align="center">A minimal, beginner friendly React-Redux boilerplate with all the industry best practices</div>
+<div align="center">Payment App</div>
 
 <br />
 
